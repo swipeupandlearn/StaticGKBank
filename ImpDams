@@ -13,7 +13,7 @@
     "subtopics": [
       {
         "subtopic": "Andhra Pradesh",
-        "content": "• 1. Nagarjunasagar Dam → Krishna River\n\n• 2. Srisailam Dam → Krishna River\n\n• 3. Somasila Dam → Penna River\n\n• 4. Nizamsagar Dam → Manjira River\n\n• 5. Kalyani Dam → Swarnamukhi River\n\n• 6. Veligallu Dam → Papagni River\n\n• 7. Ramagundam Dam → Godavari River\n\n• 8. Singur Dam → Manjira River\n\n"
+        "content": "• 1. Nagarjunasagar Dam → Krishna River\n\n• 2. Srisailam Dam → Krishna River\n\n• 3. Somasila Dam → Penna River\n\n• 4. Nizamsagar Dam → Manjira River\n\n• 5. Kalyani Dam → Swarnamukhi River\n\n• 6. Veligallu Dam → Papagni River\n\n"
       }
     ]
   },
@@ -23,6 +23,249 @@
       {
         "subtopic": "Arunachal Pradesh",
         "content": "• 1. Ranganadi Dam → Ranganadi River\n\n• 2. Subansiri Lower Dam → Subansiri River\n\n• 3. Dikrong Dam → Dikrong River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "4. Important Dams in Assam",
+    "subtopics": [
+      {
+        "subtopic": "Assam",
+        "content": "• 1. Kopili Dam → Kopili River\n\n• 2. Umrong Dam → Umrong River\n\n• 3. Karbi Langpi Dam → Kopili River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "5. Important Dams in Bihar",
+    "subtopics": [
+      {
+        "subtopic": "Bihar",
+        "content": "• 1. Kosi Barrage (Kosi Dam) → Kosi River\n\n• 2. Durgawati Dam → Durgawati River\n\n• 3. Ajan Dam → Ajan River\n\n• 4. Nagarnausa Dam → Panchane River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "7. Important Dams in Chhattisgarh",
+    "subtopics": [
+      {
+        "subtopic": "Chhattisgarh",
+        "content": "• 1. Hasdeo Bango Dam → Hasdeo River\n\n• 2. Gangrel Dam (Ravishankar Sagar) → Mahanadi River\n\n• 3. Kharang Dam → Kharang River\n\n• 4. Dudhawa Dam → Mahanadi River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "8. Important Dams in Gujarat",
+    "subtopics": [
+      {
+        "subtopic": "Gujarat",
+        "content": "• 1. Sardar Sarovar Dam → Narmada River\n\n• 2. Ukai Dam → Tapi River\n\n• 3. Dharoi Dam → Sabarmati River\n\n• 4. Kadana Dam → Mahi River\n\n• 5. Dantiwada Dam → Banas River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "9. Important Dams in Haryana",
+    "subtopics": [
+      {
+        "subtopic": "Haryana",
+        "content": "• 1. Kaushalya Dam → Kaushalya River\n\n• 2. Hathnikund Barrage → Yamuna River\n\n• 3. Western Yamuna Canal Dam → Yamuna River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "10. Important Dams in Himachal Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Himachal Pradesh",
+        "content": "• 1. Bhakra Nangal Dam → Sutlej River\n\n• 2. Pong Dam (Maharana Pratap Sagar) → Beas River\n\n• 3. Pandoh Dam → Beas River\n\n• 4. Nathpa Jhakri Dam → Sutlej River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "11. Important Dams in Jammu & Kashmir",
+    "subtopics": [
+      {
+        "subtopic": "Jammu & Kashmir",
+        "content": "• 1. Salal Dam → Chenab River\n\n• 2. Baglihar Dam → Chenab River\n\n• 3. Dulhasti Dam → Chenab River\n\n• 4. Uri Dam → Jhelum River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "12. Important Dams in Jharkhand",
+    "subtopics": [
+      {
+        "subtopic": "Jharkhand",
+        "content": "• 1. Tenughat Dam → Damodar River\n\n• 2. Konar Dam → Konar River\n\n• 3. Tilaiya Dam → Barakar River\n\n• 4. Panchet Dam → Damodar River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "13. Important Dams in Karnataka",
+    "subtopics": [
+      {
+        "subtopic": "Karnataka",
+        "content": "• 1. Krishna Raja Sagara (KRS) Dam → Kaveri River\n\n• 2. Tungabhadra Dam → Tungabhadra River\n\n• 3. Almatti Dam → Krishna River\n\n• 4. Supa Dam → Kali River\n\n• 5. Linganamakki Dam → Sharavathi River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "14. Important Dams in Kerala",
+    "subtopics": [
+      {
+        "subtopic": "Kerala",
+        "content": "• 1. Idukki Dam → Periyar River\n\n• 2. Mullaperiyar Dam → Periyar River\n\n• 3. Malampuzha Dam → Malampuzha River\n\n• 4. Idamalayar Dam → Idamalayar River\n\n• 5. Banasura Sagar Dam → Karamanathodu River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "15. Important Dams in Madhya Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Madhya Pradesh",
+        "content": "• 1. Indira Sagar Dam → Narmada River\n\n• 2. Bargi Dam → Narmada River\n\n• 3. Tawa Dam → Tawa River\n\n• 4. Gandhi Sagar Dam → Chambal River\n\n• 5. Bansagar Dam → Son River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "16. Important Dams in Maharashtra",
+    "subtopics": [
+      {
+        "subtopic": "Maharashtra",
+        "content": "• 1. Koyna Dam → Koyna River\n\n• 2. Jayakwadi Dam → Godavari River\n\n• 3. Isapur Dam → Penganga River\n\n• 4. Warna Dam → Warna River\n\n• 5. Mula Dam → Mula River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "17. Important Dams in Manipur",
+    "subtopics": [
+      {
+        "subtopic": "Manipur",
+        "content": "• 1. Khoupum Dam → Barak River\n\n• 2. Singda Dam → Imphal River\n\n• 3. Khuga Dam → Khuga River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "18. Important Dams in Meghalaya",
+    "subtopics": [
+      {
+        "subtopic": "Meghalaya",
+        "content": "• 1. Umiam Dam → Umiam River\n\n• 2. Umtru Dam → Umtru River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "19. Important Dams in Mizoram",
+    "subtopics": [
+      {
+        "subtopic": "Mizoram",
+        "content": "• 1. Serlui B Dam → Serlui River\n\n• 2. Tuirial Dam → Tuirial River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "20. Important Dams in Nagaland",
+    "subtopics": [
+      {
+        "subtopic": "Nagaland",
+        "content": "• 1. Doyang Hydro Project Dam → Doyang River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "21. Important Dams in Odisha",
+    "subtopics": [
+      {
+        "subtopic": "Odisha",
+        "content": "• 1. Hirakud Dam → Mahanadi River\n\n• 2. Rengali Dam → Brahmani River\n\n• 3. Balimela Dam → Sileru River\n\n• 4. Indravati Dam → Indravati River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "22. Important Dams in Punjab",
+    "subtopics": [
+      {
+        "subtopic": "Punjab",
+        "content": "• 1. Ranjit Sagar Dam (Thein Dam) → Ravi River\n\n• 2. Damsal Dam → Swan River\n\n• 3. Dholbaha Dam → Dholbaha River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "23. Important Dams in Rajasthan",
+    "subtopics": [
+      {
+        "subtopic": "Rajasthan",
+        "content": "• 1. Rana Pratap Sagar Dam → Chambal River\n\n• 2. Mahi Bajaj Sagar Dam → Mahi River\n\n• 3. Jawahar Sagar Dam → Chambal River\n\n• 4. Bisalpur Dam → Banas River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "24. Important Dams in Sikkim",
+    "subtopics": [
+      {
+        "subtopic": "Sikkim",
+        "content": "• 1. Rangit Dam → Rangit River\n\n• 2. Teesta-V Dam → Teesta River\n\n• 3. Dikchu Dam → Teesta River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "25. Important Dams in Tamil Nadu",
+    "subtopics": [
+      {
+        "subtopic": "Tamil Nadu",
+        "content": "• 1. Mettur Dam → Kaveri River\n\n• 2. Bhavani Sagar Dam → Bhavani River\n\n• 3. Amaravathi Dam → Amaravathi River\n\n• 4. Sathanur Dam → Thenpennai River\n\n• 5. Vaigai Dam → Vaigai River\n\n• 6. Kallanai (Grand Anicut) → Kaveri River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "26. Important Dams in Telangana",
+    "subtopics": [
+      {
+        "subtopic": "Telangana",
+        "content": "• 1. Nagarjunasagar Dam → Krishna River (shared with Andhra Pradesh)\n\n• 2. Sri Ram Sagar Dam → Godavari River\n\n• 3. Nizam Sagar Dam → Manjira River\n\n• 4. Singur Dam → Manjira River\n\n• 5. Kaddam Dam → Kaddam River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "27. Important Dams in Tripura",
+    "subtopics": [
+      {
+        "subtopic": "Tripura",
+        "content": "• 1. Gumti Dam → Gumti River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "28. Important Dams in Uttar Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Uttar Pradesh",
+        "content": "• 1. Rihand Dam → Rihand River\n\n• 2. Matatila Dam → Betwa River\n\n• 3. Govind Ballabh Pant Sagar Dam → Rihand River\n\n• 4. Ramganga Dam → Ramganga River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "29. Important Dams in Uttarakhand",
+    "subtopics": [
+      {
+        "subtopic": "Uttarakhand",
+        "content": "• 1. Tehri Dam → Bhagirathi River\n\n• 2. Koteshwar Dam → Bhagirathi River\n\n• 3. Ramganga Dam → Ramganga River\n\n• 4. Dhauliganga Dam → Dhauliganga River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "30. Important Dams in West Bengal",
+    "subtopics": [
+      {
+        "subtopic": "West Bengal",
+        "content": "• 1. Maithon Dam → Barakar River\n\n• 2. Panchet Dam → Damodar River\n\n• 3. Mukutmanipur Dam (Kangsabati Dam) → Kangsabati River\n\n• 4. Durgapur Barrage → Damodar River\n\n"
+      }
+    ]
+  },
+  {
+    "topic": "31 Important FAQs on Dams in India",
+    "subtopics": [
+      {
+        "subtopic": "Frequently Asked Questions",
+        "content": "• Q: Which dam is located on the Sutlej River?\nA: Bhakra Nangal Dam is located on the Sutlej River.\n\n• Q: Which is India’s largest dam?\nA: Tehri Dam in Uttarakhand is India’s largest dam.\n\n• Q: Which is the first dam in India?\nA: Kallanai Dam in Tamil Nadu is the first dam in India.\n\n• Q: How many dams are there in India in 2025?\nA: At present, there are around 5,700 dams in India.\n\n• Q: Which is the longest dam in India?\nA: Hirakud Dam in Odisha is the longest dam in India.\n\n• Q: Which state has the most dams in India?\nA: Maharashtra, with approximately 1800 dams.\n\n• Q: Which dam is used for hydroelectric power generation?\nA: Bhakra Nangal Dam on the Sutlej River in Himachal Pradesh.\n\n• Q: How many earthen dams are there in India?\nA: Around 1000 to 1500 large and small earthen dams.\n\n• Q: How many dams are under construction in India?\nA: Around 411 dams are under construction.\n\n• Q: How many dams are 100+ years old in India?\nA: As per NRLD 2023, 234 dams are more than 100 years old.\n\n• Q: Which dam is the highest in India?\nA: Tehri Dam (260.5 m).\n\n• Q: Which dam is the oldest in India?\nA: Kallanai Dam, built around 2000 years ago.\n\n• Q: Which river has the maximum number of dams?\nA: Krishna River.\n\n• Q: Which is the largest dam in South India?\nA: Nagarjuna Sagar Dam on Krishna River.\n\n• Q: Which is the largest dam in Maharashtra?\nA: Koyna Dam.\n\n• Q: Which is the largest dam in Gujarat?\nA: Sardar Sarovar Dam on Narmada River.\n\n• Q: Which dam is called the Lifeline of Tamil Nadu?\nA: Mettur Dam on the Kaveri River.\n\n• Q: Which dam is the major source of water supply for Mumbai?\nA: Bhatsa Dam.\n\n• Q: Which is the highest gravity dam in India?\nA: Bhakra Nangal Dam.\n\n• Q: Which dam is built across Periyar River?\nA: Idukki Dam in Kerala.\n\n• Q: Which is the second longest dam in India?\nA: Nagarjuna Sagar Dam.\n\n• Q: Which dam is associated with Asia’s first hydroelectric project?\nA: Shivanasamudra Dam, Karnataka.\n\n• Q: Which dam is on the Tungabhadra River?\nA: Tungabhadra Dam (Andhra Pradesh & Karnataka).\n\n• Q: Which is the largest dam in Madhya Pradesh?\nA: Indira Sagar Dam on Narmada River.\n\n• Q: Which is the highest arch dam in India?\nA: Idukki Dam, Kerala.\n\n• Q: Which dam is also known as the 'Lake of Brindavan Gardens'?\nA: Krishnarajasagar Dam, Karnataka.\n\n• Q: Which is the largest reservoir in India?\nA: Indira Sagar Reservoir (Madhya Pradesh).\n\n• Q: Which dam is on the Bhagirathi River?\nA: Tehri Dam.\n\n• Q: Which dam is known for world’s third largest reservoir?\nA: Nagarjuna Sagar Dam.\n\n• Q: Which dam is the second largest concrete dam in the world?\nA: Bhakra Nangal Dam.\n\n• Q: Which is the largest multipurpose dam in India?\nA: Sardar Sarovar Dam."
       }
     ]
   }
