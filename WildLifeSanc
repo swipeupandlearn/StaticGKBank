@@ -13,28 +13,20 @@
     ]
   },
   {
-    "topic": "Wildlife Sanctuaries of Rajasthan",
+    "topic": "Rajasthan",
     "subtopics": [
       {
-        "subtopic": "Important Sanctuaries",
-        "content": "• Ranthambore Wildlife Sanctuary – Famous for Bengal Tigers, located in Sawai Madhopur.\n• Sariska Wildlife Sanctuary – Known for tigers, leopards, and located in Alwar.\n• Desert National Park – Protects Thar Desert ecosystem, great for bird watching.\n• Keoladeo Ghana National Park (Bharatpur Bird Sanctuary) – UNESCO World Heritage Site, famous for migratory birds."
-      },
-      {
-        "subtopic": "राजस्थान के प्रमुख अभयारण्य",
-        "content": "• रणथंभौर अभयारण्य – बंगाल टाइगर के लिए प्रसिद्ध, सवाई माधोपुर में स्थित।\n• सरिस्का अभयारण्य – बाघ, तेंदुआ के लिए प्रसिद्ध, अलवर में स्थित।\n• डेजर्ट नेशनल पार्क – थार मरुस्थल की पारिस्थितिकी की रक्षा करता है, पक्षी अवलोकन के लिए उत्तम।\n• केओलादेव घना राष्ट्रीय उद्यान (भरतपुर बर्ड सेंचुरी) – यूनेस्को विश्व धरोहर स्थल, प्रवासी पक्षियों के लिए प्रसिद्ध।"
+        "subtopic": "Important Sanctuaries of Rajasthan",
+        "content": "1. Ranthambore Wildlife Sanctuary – Famous for Bengal Tigers, located in Sawai Madhopur.\n\n2. Sariska Wildlife Sanctuary – Known for tigers, leopards, located in Alwar.\n\n3. Desert National Park – Protects Thar Desert ecosystem, great for bird watching.\n\n4. Keoladeo Ghana National Park (Bharatpur Bird Sanctuary) – UNESCO World Heritage Site, famous for migratory birds.\n\n"
       }
     ]
   },
   {
-    "topic": "Wildlife Sanctuaries of Madhya Pradesh",
+    "topic": "Madhya Pradesh",
     "subtopics": [
       {
-        "subtopic": "Important Sanctuaries",
-        "content": "• Kanha National Park – Famous for Barasingha (hard ground swamp deer), also a Tiger Reserve.\n• Bandhavgarh National Park – Known for highest density of tigers.\n• Panna National Park – Famous for diamond mines region and tigers.\n• Pench National Park – Inspiration for Rudyard Kipling's 'The Jungle Book'."
-      },
-      {
-        "subtopic": "मध्य प्रदेश के प्रमुख अभयारण्य",
-        "content": "• कान्हा राष्ट्रीय उद्यान – बारहसिंगा (दलदली हिरण) और बाघ संरक्षण के लिए प्रसिद्ध।\n• बांधवगढ़ राष्ट्रीय उद्यान – बाघों की सबसे अधिक घनत्व के लिए प्रसिद्ध।\n• पन्ना राष्ट्रीय उद्यान – हीरे की खानों और बाघों के लिए प्रसिद्ध।\n• पेंच राष्ट्रीय उद्यान – रुडयार्ड किपलिंग की 'जंगल बुक' की प्रेरणा।"
+        "subtopic": "Important Sanctuaries of Madhya Pradesh",
+        "content": "1. Kanha National Park – Famous for Barasingha (hard ground swamp deer), also a Tiger Reserve.\n\n2. Bandhavgarh National Park – Known for highest density of tigers.\n\n3. Panna National Park – Famous for diamond mines region and tigers.\n\n4. Pench National Park – Inspiration for Rudyard Kipling's 'The Jungle Book'.\n\n"
       }
     ]
   }
