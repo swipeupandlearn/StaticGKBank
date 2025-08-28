@@ -1,0 +1,41 @@
+[
+  {
+    "topic": "Overview of Wildlife Sanctuaries in India",
+    "subtopics": [
+      {
+        "subtopic": "English Overview",
+        "content": "• India has a rich network of wildlife sanctuaries aimed at protecting flora and fauna.\n• As of 2025, there are around 573 wildlife sanctuaries in India.\n• These sanctuaries cover an area of approximately 122,500 sq. km, about 3.7% of India’s total geographical area.\n• Wildlife sanctuaries protect endangered species such as Bengal Tiger, Asiatic Lion, Snow Leopard, One-Horned Rhinoceros, and Indian Elephant.\n• They are also important for ecological balance, eco-tourism, and conservation education."
+      },
+      {
+        "subtopic": "हिंदी में परिचय",
+        "content": "• भारत में वन्यजीव अभयारण्यों का विशाल नेटवर्क है जिसका उद्देश्य वनस्पतियों और जीव-जंतुओं का संरक्षण करना है।\n• वर्ष 2025 तक, भारत में लगभग 573 वन्यजीव अभयारण्य हैं।\n• ये अभयारण्य लगभग 1,22,500 वर्ग किलोमीटर क्षेत्र में फैले हैं, जो भारत के कुल भौगोलिक क्षेत्र का लगभग 3.7% है।\n• अभयारण्य बंगाल टाइगर, एशियाई शेर, हिम तेंदुआ, एक सींग वाला गैंडा और एशियाई हाथी जैसे विलुप्तप्राय प्रजातियों की रक्षा करते हैं।\n• ये पारिस्थितिक संतुलन, इको-पर्यटन और संरक्षण शिक्षा के लिए भी महत्वपूर्ण हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "Wildlife Sanctuaries of Rajasthan",
+    "subtopics": [
+      {
+        "subtopic": "Important Sanctuaries",
+        "content": "• Ranthambore Wildlife Sanctuary – Famous for Bengal Tigers, located in Sawai Madhopur.\n• Sariska Wildlife Sanctuary – Known for tigers, leopards, and located in Alwar.\n• Desert National Park – Protects Thar Desert ecosystem, great for bird watching.\n• Keoladeo Ghana National Park (Bharatpur Bird Sanctuary) – UNESCO World Heritage Site, famous for migratory birds."
+      },
+      {
+        "subtopic": "राजस्थान के प्रमुख अभयारण्य",
+        "content": "• रणथंभौर अभयारण्य – बंगाल टाइगर के लिए प्रसिद्ध, सवाई माधोपुर में स्थित।\n• सरिस्का अभयारण्य – बाघ, तेंदुआ के लिए प्रसिद्ध, अलवर में स्थित।\n• डेजर्ट नेशनल पार्क – थार मरुस्थल की पारिस्थितिकी की रक्षा करता है, पक्षी अवलोकन के लिए उत्तम।\n• केओलादेव घना राष्ट्रीय उद्यान (भरतपुर बर्ड सेंचुरी) – यूनेस्को विश्व धरोहर स्थल, प्रवासी पक्षियों के लिए प्रसिद्ध।"
+      }
+    ]
+  },
+  {
+    "topic": "Wildlife Sanctuaries of Madhya Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Important Sanctuaries",
+        "content": "• Kanha National Park – Famous for Barasingha (hard ground swamp deer), also a Tiger Reserve.\n• Bandhavgarh National Park – Known for highest density of tigers.\n• Panna National Park – Famous for diamond mines region and tigers.\n• Pench National Park – Inspiration for Rudyard Kipling's 'The Jungle Book'."
+      },
+      {
+        "subtopic": "मध्य प्रदेश के प्रमुख अभयारण्य",
+        "content": "• कान्हा राष्ट्रीय उद्यान – बारहसिंगा (दलदली हिरण) और बाघ संरक्षण के लिए प्रसिद्ध।\n• बांधवगढ़ राष्ट्रीय उद्यान – बाघों की सबसे अधिक घनत्व के लिए प्रसिद्ध।\n• पन्ना राष्ट्रीय उद्यान – हीरे की खानों और बाघों के लिए प्रसिद्ध।\n• पेंच राष्ट्रीय उद्यान – रुडयार्ड किपलिंग की 'जंगल बुक' की प्रेरणा।"
+      }
+    ]
+  }
+]
