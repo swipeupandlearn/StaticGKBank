@@ -2,6 +2,9 @@
  "name":"Important Dams India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/ImpDams"
 },
 {
- "name":"Wild Life Century", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/WildLifeSanc"
+ "name":"Wild Life Santuary", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/WildLifeSanc"
+},
+{
+ "name":"Bird Santuary", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/BirdSanc"
 }
 ]
