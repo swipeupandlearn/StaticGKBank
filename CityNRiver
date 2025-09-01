@@ -8,35 +8,16 @@
       }
     ]
   },
-  {
-    "topic": "Andhra Pradesh - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-Rajahmundry",
-        "content": "Rajahmundry (Andhra Pradesh) –> Godavari River"
-      },
-      {
-        "subtopic": "City-Vijayawada",
-        "content": "Vijayawada (Andhra Pradesh) –> Krishna River"
-      },
-      {
-        "subtopic": "City-Kurnool",
-        "content": "Kurnool (Andhra Pradesh) –> Tungabhadra River"
-      },
-      {
-        "subtopic": "City-Nellore",
-        "content": "Nellore (Andhra Pradesh) –> Pennar River"
-      },
-      {
-        "subtopic": "City-Srikakulam",
-        "content": "Srikakulam (Andhra Pradesh) –> Nagavali River"
-      },
-      {
-        "subtopic": "City-Amaravati",
-        "content": "Amaravati (Andhra Pradesh) –> Krishna River"
-      }
-    ]
-  },
+ {
+  "topic": "Andhra Pradesh - Riverbank Cities",
+  "subtopics": [
+    {
+      "subtopic": "Cities of Andhra Pradesh",
+      "content": "1. Rajahmundry –> Godavari River\n\n2. Vijayawada –> Krishna River\n\n3. Kurnool –> Tungabhadra River\n\n4. Nellore –> Pennar River\n\n5. Srikakulam –> Nagavali River\n\n6. Amaravati –> Krishna River\n\n7. Adoni –> Hagari River"
+    }
+  ]
+}
+,
   {
     "topic": "Assam - Riverbank Cities",
     "subtopics": [
