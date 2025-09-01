@@ -8,97 +8,21 @@
       }
     ]
   },
- {
-  "topic": "Andhra Pradesh - Riverbank Cities",
-  "subtopics": [
-    {
-      "subtopic": "Cities of Andhra Pradesh",
-      "content": "1. Rajahmundry –> Godavari River\n\n2. Vijayawada –> Krishna River\n\n3. Kurnool –> Tungabhadra River\n\n4. Nellore –> Pennar River\n\n5. Srikakulam –> Nagavali River\n\n6. Amaravati –> Krishna River\n\n7. Adoni –> Hagari River"
-    }
-  ]
-}
-,
-  {
-    "topic": "Assam - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-Dibrugarh",
-        "content": "Dibrugarh (Assam) –> Brahmaputra River"
-      },
-      {
-        "subtopic": "City-Guwahati",
-        "content": "Guwahati (Assam) –> Brahmaputra River"
-      }
-    ]
-  },
-  {
-    "topic": "Bihar - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-Bhagalpur",
-        "content": "Bhagalpur (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Patna",
-        "content": "Patna (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Gaya",
-        "content": "Gaya (Bihar) –> Falgu (Neeranjana) River"
-      },
-      {
-        "subtopic": "City-Hajipur",
-        "content": "Hajipur (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Munger",
-        "content": "Munger (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Jamalpur",
-        "content": "Jamalpur (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Purnia",
-        "content": "Purnia (Bihar) –> Koshi River"
-      }
-    ]
-  },
-  {
-    "topic": "Delhi - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-New Delhi",
-        "content": "New Delhi (Delhi) –> Yamuna River"
-      }
-    ]
-  },
   {
     "topic": "Andhra Pradesh - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Rajahmundry",
-        "content": "Rajahmundry (Andhra Pradesh) –> Godavari River"
-      },
+        "subtopic": "Cities of Andhra Pradesh",
+        "content": "1. Rajahmundry –> Godavari River/n/n2. Vijayawada –> Krishna River/n/n3. Kurnool –> Tungabhadra River/n/n4. Nellore –> Pennar River/n/n5. Srikakulam –> Nagavali River/n/n6. Amaravati –> Krishna River/n/n7. Nellore –> Pennar River"
+      }
+    ]
+  },
+  {
+    "topic": "Arunachal Pradesh - Riverbank Cities",
+    "subtopics": [
       {
-        "subtopic": "City-Vijayawada",
-        "content": "Vijayawada (Andhra Pradesh) –> Krishna River"
-      },
-      {
-        "subtopic": "City-Kurnool",
-        "content": "Kurnool (Andhra Pradesh) –> Tungabhadra River"
-      },
-      {
-        "subtopic": "City-Nellore",
-        "content": "Nellore (Andhra Pradesh) –> Pennar River"
-      },
-      {
-        "subtopic": "City-Srikakulam",
-        "content": "Srikakulam (Andhra Pradesh) –> Nagavali River"
-      },
-      {
-        "subtopic": "City-Amaravati",
-        "content": "Amaravati (Andhra Pradesh) –> Krishna River"
+        "subtopic": "Cities of Arunachal Pradesh",
+        "content": "1. Pasighat –> Siang River\n\n2. Tezu –> Lohit River\n\n3. Daporijo –> Subansiri River\n\n4. Ziro –> Pange River"
       }
     ]
   },
@@ -106,12 +30,8 @@
     "topic": "Assam - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Dibrugarh",
-        "content": "Dibrugarh (Assam) –> Brahmaputra River"
-      },
-      {
-        "subtopic": "City-Guwahati",
-        "content": "Guwahati (Assam) –> Brahmaputra River"
+        "subtopic": "Cities of Assam",
+        "content": "1. Guwahati –> Brahmaputra River\n\n2. Dibrugarh –> Brahmaputra River\n\n3. Tezpur –> Brahmaputra River\n\n4. Dhubri –> Brahmaputra River\n\n5. Sivasagar –> Dikhow River"
       }
     ]
   },
@@ -119,71 +39,62 @@
     "topic": "Bihar - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Bhagalpur",
-        "content": "Bhagalpur (Bihar) –> Ganges River"
-      },
-      { "subtopic": "City-Patna", "content": "Patna (Bihar) –> Ganges River" },
-      {
-        "subtopic": "City-Gaya",
-        "content": "Gaya (Bihar) –> Falgu (Neeranjana) River"
-      },
-      {
-        "subtopic": "City-Hajipur",
-        "content": "Hajipur (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Munger",
-        "content": "Munger (Bihar) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Jamalpur",
-        "content": "Jamalpur (Bihar) –> Ganges River"
-      },
-      { "subtopic": "City-Purnia", "content": "Purnia (Bihar) –> Koshi River" }
-    ]
-  },
-  {
-    "topic": "Delhi - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-New Delhi",
-        "content": "New Delhi (Delhi) –> Yamuna River"
+        "subtopic": "Cities of Bihar",
+        "content": "1. Patna –> Ganga River\n\n2. Bhagalpur –> Ganga River\n\n3. Buxar –> Ganga River\n\n4. Munger –> Ganga River\n\n5. Hajipur –> Gandak River"
       }
     ]
   },
   {
-    "topic": "Daman - Riverbank Cities",
+    "topic": "Chhattisgarh - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Daman",
-        "content": "Daman (Daman) –> Daman Ganga River"
+        "subtopic": "Cities of Chhattisgarh",
+        "content": "1. Raipur –> Kharun River\n\n2. Bilaspur –> Arpa River\n\n3. Jagdalpur –> Indravati River\n\n4. Dhamtari –> Mahanadi River"
+      }
+    ]
+  },
+  {
+    "topic": "Goa - Riverbank Cities",
+    "subtopics": [
+      {
+        "subtopic": "Cities of Goa",
+        "content": "1. Panaji –> Mandovi River\n\n2. Margao –> Sal River\n\n3. Vasco da Gama –> Zuari River"
       }
     ]
   },
   {
     "topic": "Gujarat - Riverbank Cities",
     "subtopics": [
-      { "subtopic": "City-Surat", "content": "Surat (Gujarat) –> Tapti River" },
       {
-        "subtopic": "City-Karnavati (Ahmedabad)",
-        "content": "Karnavati (Ahmedabad) (Gujarat) –> Sabarmati River"
-      },
-      {
-        "subtopic": "City-Bharuch",
-        "content": "Bharuch (Gujarat) –> Narmada River"
-      },
-      {
-        "subtopic": "City-Vadodara",
-        "content": "Vadodara (Gujarat) –> Vishwamitri River"
+        "subtopic": "Cities of Gujarat",
+        "content": "1. Ahmedabad –> Sabarmati River\n\n2. Vadodara –> Vishwamitri River\n\n3. Bharuch –> Narmada River\n\n4. Surat –> Tapi River\n\n5. Rajkot –> Aji River"
       }
     ]
   },
   {
-    "topic": "Jammu & Kashmir - Riverbank Cities",
+    "topic": "Haryana - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Srinagar",
-        "content": "Srinagar (Jammu and Kashmir) –> Jhelum River"
+        "subtopic": "Cities of Haryana",
+        "content": "1. Faridabad –> Yamuna River\n\n2. Karnal –> Yamuna River\n\n3. Panipat –> Yamuna River"
+      }
+    ]
+  },
+  {
+    "topic": "Himachal Pradesh - Riverbank Cities",
+    "subtopics": [
+      {
+        "subtopic": "Cities of Himachal Pradesh",
+        "content": "1. Mandi –> Beas River\n\n2. Kullu –> Beas River\n\n3. Chamba –> Ravi River\n\n4. Bilaspur –> Satluj River"
+      }
+    ]
+  },
+  {
+    "topic": "Jharkhand - Riverbank Cities",
+    "subtopics": [
+      {
+        "subtopic": "Cities of Jharkhand",
+        "content": "1. Jamshedpur –> Subarnarekha River\n\n2. Ranchi –> Subarnarekha River\n\n3. Daltonganj –> North Koel River"
       }
     ]
   },
@@ -191,36 +102,17 @@
     "topic": "Karnataka - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Mangalore",
-        "content": "Mangalore (Karnataka) –> Netravati, Gurupura Rivers"
-      },
+        "subtopic": "Cities of Karnataka",
+        "content": "1. Mysuru –> Kaveri River\n\n2. Hampi –> Tungabhadra River\n\n3. Bagalkot –> Ghataprabha River\n\n4. Karwar –> Kali River"
+      }
+    ]
+  },
+  {
+    "topic": "Kerala - Riverbank Cities",
+    "subtopics": [
       {
-        "subtopic": "City-Hospet",
-        "content": "Hospet (Karnataka) –> Tungabhadra River"
-      },
-      {
-        "subtopic": "City-Shimoga",
-        "content": "Shimoga (Karnataka) –> Tunga River"
-      },
-      {
-        "subtopic": "City-Karwar",
-        "content": "Karwar (Karnataka) –> Kali River"
-      },
-      {
-        "subtopic": "City-Bhadravati",
-        "content": "Bhadravati (Karnataka) –> Bhadra River"
-      },
-      {
-        "subtopic": "City-Bagalkot",
-        "content": "Bagalkot (Karnataka) –> Ghataprabha River"
-      },
-      {
-        "subtopic": "City-Bangalore",
-        "content": "Bangalore (Karnataka) –> Vrishabhavathi River"
-      },
-      {
-        "subtopic": "City-Honnavar",
-        "content": "Honnavar (Karnataka) –> Sharavathi River"
+        "subtopic": "Cities of Kerala",
+        "content": "1. Alappuzha –> Pamba River\n\n2. Kollam –> Kallada River\n\n3. Thrissur –> Periyar River\n\n4. Kochi –> Periyar River"
       }
     ]
   },
@@ -228,20 +120,8 @@
     "topic": "Madhya Pradesh - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Ujjain",
-        "content": "Ujjain (Madhya Pradesh) –> Shipra River"
-      },
-      {
-        "subtopic": "City-Gwalior",
-        "content": "Gwalior (Madhya Pradesh) –> Chambal River"
-      },
-      {
-        "subtopic": "City-Jabalpur",
-        "content": "Jabalpur (Madhya Pradesh) –> Narmada River"
-      },
-      {
-        "subtopic": "City-Ashta",
-        "content": "Ashta (Madhya Pradesh) –> Parwati River"
+        "subtopic": "Cities of Madhya Pradesh",
+        "content": "1. Jabalpur –> Narmada River\n\n2. Hoshangabad –> Narmada River\n\n3. Ujjain –> Shipra River\n\n4. Indore –> Khan River"
       }
     ]
   },
@@ -249,36 +129,8 @@
     "topic": "Maharashtra - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Karjat",
-        "content": "Karjat (Maharashtra) –> Ulhas River"
-      },
-      {
-        "subtopic": "City-Pune",
-        "content": "Pune (Maharashtra) –> Mula, Mutha Rivers"
-      },
-      {
-        "subtopic": "City-Malegaon",
-        "content": "Malegaon (Maharashtra) –> Girna River"
-      },
-      {
-        "subtopic": "City-Karad",
-        "content": "Karad (Maharashtra) –> Krishna, Koyna Rivers"
-      },
-      {
-        "subtopic": "City-Nashik",
-        "content": "Nashik (Maharashtra) –> Godavari River"
-      },
-      {
-        "subtopic": "City-Nanded",
-        "content": "Nanded (Maharashtra) –> Godavari River"
-      },
-      {
-        "subtopic": "City-Sangli",
-        "content": "Sangli (Maharashtra) –> Krishna River"
-      },
-      {
-        "subtopic": "City-Mahad",
-        "content": "Mahad (Maharashtra) –> Savitri River"
+        "subtopic": "Cities of Maharashtra",
+        "content": "1. Nashik –> Godavari River\n\n2. Pune –> Mula-Mutha River\n\n3. Kolhapur –> Panchganga River\n\n4. Chandrapur –> Wardha River\n\n5. Nagpur –> Kanhan River"
       }
     ]
   },
@@ -286,28 +138,8 @@
     "topic": "Odisha - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Rourkela",
-        "content": "Rourkela (Odisha) –> Brahmani River"
-      },
-      {
-        "subtopic": "City-Sambalpur",
-        "content": "Sambalpur (Odisha) –> Mahanadi River"
-      },
-      {
-        "subtopic": "City-Cuttack",
-        "content": "Cuttack (Odisha) –> Mahanadi River"
-      },
-      {
-        "subtopic": "City-Banki",
-        "content": "Banki (Odisha) –> Mahanadi River"
-      },
-      {
-        "subtopic": "City-Brahmapur",
-        "content": "Brahmapur (Odisha) –> Rushikulya River"
-      },
-      {
-        "subtopic": "City-Chhatrapur",
-        "content": "Chhatrapur (Odisha) –> Rushikulya River"
+        "subtopic": "Cities of Odisha",
+        "content": "1. Cuttack –> Mahanadi River\n\n2. Sambalpur –> Mahanadi River\n\n3. Balasore –> Budhabalanga River"
       }
     ]
   },
@@ -315,8 +147,8 @@
     "topic": "Punjab - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Ferozpur",
-        "content": "Ferozpur (Punjab) –> Sutlej River"
+        "subtopic": "Cities of Punjab",
+        "content": "1. Amritsar –> Ravi River\n\n2. Jalandhar –> Sutlej River\n\n3. Ludhiana –> Sutlej River\n\n4. Ferozepur –> Sutlej River"
       }
     ]
   },
@@ -324,21 +156,8 @@
     "topic": "Rajasthan - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Kota",
-        "content": "Kota (Rajasthan) –> Chambal River"
-      }
-    ]
-  },
-  {
-    "topic": "Telangana - Riverbank Cities",
-    "subtopics": [
-      {
-        "subtopic": "City-Hyderabad",
-        "content": "Hyderabad (Telangana) –> Musi River"
-      },
-      {
-        "subtopic": "City-Nizamabad",
-        "content": "Nizamabad (Telangana) –> Godavari River"
+        "subtopic": "Cities of Rajasthan",
+        "content": "1. Kota –> Chambal River\n\n2. Bikaner –> Ghaggar River\n\n3. Jhalawar –> Kali Sindh River\n\n4. Dholpur –> Chambal River"
       }
     ]
   },
@@ -346,36 +165,17 @@
     "topic": "Tamil Nadu - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Chennai",
-        "content": "Chennai (Tamil Nadu) –> Cooum, Adyar Rivers"
-      },
+        "subtopic": "Cities of Tamil Nadu",
+        "content": "1. Thanjavur –> Kaveri River\n\n2. Tiruchirappalli –> Kaveri River\n\n3. Erode –> Bhavani River\n\n4. Coimbatore –> Noyyal River"
+      }
+    ]
+  },
+  {
+    "topic": "Telangana - Riverbank Cities",
+    "subtopics": [
       {
-        "subtopic": "City-Coimbatore",
-        "content": "Coimbatore (Tamil Nadu) –> Noyyal River"
-      },
-      {
-        "subtopic": "City-Madurai",
-        "content": "Madurai (Tamil Nadu) –> Vaigai River"
-      },
-      {
-        "subtopic": "City-Tiruchirapalli",
-        "content": "Tiruchirapalli (Tamil Nadu) –> Kaveri River"
-      },
-      {
-        "subtopic": "City-Erode",
-        "content": "Erode (Tamil Nadu) –> Kaveri River"
-      },
-      {
-        "subtopic": "City-Tirunelveli",
-        "content": "Tirunelveli (Tamil Nadu) –> Thamirabarani River"
-      },
-      {
-        "subtopic": "City-Kanchipuram",
-        "content": "Kanchipuram (Tamil Nadu) –> Vegavathi, Palar Rivers"
-      },
-      {
-        "subtopic": "City-Thanjavur",
-        "content": "Thanjavur (Tamil Nadu) –> Vennaru, Vadavaaru Rivers"
+        "subtopic": "Cities of Telangana",
+        "content": "1. Hyderabad –> Musi River\n\n2. Warangal –> Godavari River\n\n3. Karimnagar –> Manair River\n\n4. Nizamabad –> Godavari River"
       }
     ]
   },
@@ -383,80 +183,8 @@
     "topic": "Uttar Pradesh - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Prayag (Allahabad)",
-        "content": "Prayag (Allahabad) (Uttar Pradesh) –> Ganges, Yamuna, Saraswati Rivers"
-      },
-      {
-        "subtopic": "City-Agra",
-        "content": "Agra (Uttar Pradesh) –> Yamuna River"
-      },
-      {
-        "subtopic": "City-Kanpur",
-        "content": "Kanpur (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Ayodhya",
-        "content": "Ayodhya (Uttar Pradesh) –> Saryu River"
-      },
-      {
-        "subtopic": "City-Varanasi",
-        "content": "Varanasi (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Jaunpur",
-        "content": "Jaunpur (Uttar Pradesh) –> Gomti River"
-      },
-      {
-        "subtopic": "City-Etawah",
-        "content": "Etawah (Uttar Pradesh) –> Yamuna River"
-      },
-      {
-        "subtopic": "City-Mathura",
-        "content": "Mathura (Uttar Pradesh) –> Yamuna River"
-      },
-      {
-        "subtopic": "City-Auraiya",
-        "content": "Auraiya (Uttar Pradesh) –> Yamuna River"
-      },
-      {
-        "subtopic": "City-Kannauj",
-        "content": "Kannauj (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Farrukhabad",
-        "content": "Farrukhabad (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Fatehgarh",
-        "content": "Fatehgarh (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Gorakhpur",
-        "content": "Gorakhpur (Uttar Pradesh) –> Rapti River"
-      },
-      {
-        "subtopic": "City-Shuklaganj",
-        "content": "Shuklaganj (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Lucknow",
-        "content": "Lucknow (Uttar Pradesh) –> Gomti River"
-      },
-      {
-        "subtopic": "City-Kanpur Cantonment",
-        "content": "Kanpur Cantonment (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Chakeri",
-        "content": "Chakeri (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Mirzapur",
-        "content": "Mirzapur (Uttar Pradesh) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Budaun",
-        "content": "Budaun (Uttar Pradesh) –> Sot River"
+        "subtopic": "Cities of Uttar Pradesh",
+        "content": "1. Varanasi –> Ganga River\n\n2. Kanpur –> Ganga River\n\n3. Allahabad (Prayagraj) –> Ganga & Yamuna Rivers\n\n4. Mathura –> Yamuna River\n\n5. Agra –> Yamuna River"
       }
     ]
   },
@@ -464,12 +192,8 @@
     "topic": "Uttarakhand - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Haridwar",
-        "content": "Haridwar (Uttarakhand) –> Ganges River"
-      },
-      {
-        "subtopic": "City-Badrinath",
-        "content": "Badrinath (Uttarakhand) –> Alaknanda River"
+        "subtopic": "Cities of Uttarakhand",
+        "content": "1. Haridwar –> Ganga River\n\n2. Rishikesh –> Ganga River\n\n3. Srinagar –> Alaknanda River\n\n4. Devprayag –> Bhagirathi & Alaknanda Confluence"
       }
     ]
   },
@@ -477,12 +201,8 @@
     "topic": "West Bengal - Riverbank Cities",
     "subtopics": [
       {
-        "subtopic": "City-Kolkata",
-        "content": "Kolkata (West Bengal) –> Hooghly River"
-      },
-      {
-        "subtopic": "City-Rangpo",
-        "content": "Rangpo (Sikkim) –> Teesta River"
+        "subtopic": "Cities of West Bengal",
+        "content": "1. Kolkata –> Hooghly River\n\n2. Murshidabad –> Bhagirathi River\n\n3. Howrah –> Hooghly River\n\n4. Malda –> Mahananda River"
       }
     ]
   }
