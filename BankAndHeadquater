@@ -20,16 +20,56 @@
     "topic": "Public Sector Banks in India",
     "subtopics": [
       {
-        "subtopic": "Axis Bank",
-        "content": "Headquarters: Mumbai\nTagline: Badhti Ka Naam Zindagi\nCEO: Shri Amitabh Chaudhry"
+        "subtopic": "Allahabad Bank",
+        "content": "Headquarters: Kolkata\n\nTagline: A Tradition of Trust / Har Kadam Apke Saath\n\nCEO: Shri S.S. Mallikarjuna Rao"
       },
       {
         "subtopic": "Bank of Baroda",
-        "content": "Headquarters: Vadodara\nTagline: India’s International Bank\nCEO: Debadatta Chand\nChairman: Dr. Hasmukh Adhia"
+        "content": "Headquarters: Vadodara\n\nTagline: India’s International Bank\n\nCEO: Debadatta Chand\n\nChairman: Dr. Hasmukh Adhia"
+      },
+      {
+        "subtopic": "Bank of India",
+        "content": "Headquarters: Mumbai\n\nTagline: Relationship Beyond Banking\n\nCEO: Rajneesh Karnatak (MD & CEO)"
+      },
+      {
+        "subtopic": "Bank of Maharashtra",
+        "content": "Headquarters: Pune\n\nTagline: One Family One Bank / Ek Parivar Ek Bank\n\nCEO: Shri A.S. Rajeev"
+      },
+      {
+        "subtopic": "Canara Bank",
+        "content": "Headquarters: Bangalore\n\nTagline: Together We Can\n\nCEO: K. Satyanarayana Raju\n\nChairman: Shri Vijay Srirangan"
+      },
+      {
+        "subtopic": "Central Bank of India",
+        "content": "Headquarters: Mumbai\n\nTagline: Central to You Since 1911\n\nCEO: Shri M.V. Rao"
+      },
+      {
+        "subtopic": "Indian Bank",
+        "content": "Headquarters: Chennai\n\nTagline: Your Own Bank / Apka Apna Bank\n\nCEO: Shri Shanti Lal Jain"
+      },
+      {
+        "subtopic": "Indian Overseas Bank",
+        "content": "Headquarters: Chennai\n\nTagline: Good People to Grow With\n\nCEO: Shri Ajay Kumar Srivastava"
+      },
+      {
+        "subtopic": "Punjab National Bank",
+        "content": "Headquarters: New Delhi\n\nTagline: The Name You Can Bank Upon\n\nCEO: Atul Kumar Goel\n\nChairman: Shri K.G. Ananthakrishnan"
+      },
+      {
+        "subtopic": "Punjab and Sind Bank",
+        "content": "Headquarters: New Delhi\n\nTagline: Where Service Is A Way Of Life\n\nChairman: Charan Singh\n\nCEO: Swarup Kumar Saha"
       },
       {
         "subtopic": "State Bank of India",
-        "content": "Headquarters: Mumbai\nTaglines: A Bank Of The Common Man, Pure Banking Nothing Else, The Nation Banks On Us, With You All The Way\nChairman: Shri Dinesh Kumar Khara"
+        "content": "Headquarters: Mumbai\n\nTaglines: A Bank Of The Common Man, Pure Banking Nothing Else, The Banker To Every Indian, The Nation Banks On Us, With You All The Way, You Can Always Bank On Us\n\nChairman: Shri Dinesh Kumar Khara"
+      },
+      {
+        "subtopic": "Union Bank of India",
+        "content": "Headquarters: Mumbai\n\nTagline: Good People to Bank With\n\nChairman: Shri Srinivasan Varadarajan\n\nCEO: Ms. A. Manimekhalai"
+      },
+      {
+        "subtopic": "UCO Bank",
+        "content": "Headquarters: Kolkata\n\nTagline: Honors Your Trust\n\nCEO: Ashwani Kumar"
       }
     ]
   },
@@ -37,16 +77,88 @@
     "topic": "Private Sector Banks in India",
     "subtopics": [
       {
+        "subtopic": "Axis Bank",
+        "content": "Headquarters: Mumbai\n\nTagline: Badhti Ka Naam Zindagi\n\nCEO: Amitabh Chaudhry"
+      },
+      {
+        "subtopic": "Bandhan Bank",
+        "content": "Headquarters: Kolkata\n\nTagline: Aapka Bhala, Sabki Bhalai\n\nCEO: Chandra Shekhar Ghosh"
+      },
+      {
+        "subtopic": "Catholic Syrian Bank (CSB Bank)",
+        "content": "Headquarters: Thrissur, Kerala\n\nTagline: Support All the Way\n\nCEO: Pralay Mondal"
+      },
+      {
+        "subtopic": "City Union Bank",
+        "content": "Headquarters: Kumbakonam, Tamil Nadu\n\nTagline: Trust and Excellence Since 1904\n\nCEO: Dr. N. Kamakodi"
+      },
+      {
+        "subtopic": "DCB Bank",
+        "content": "Headquarters: Mumbai\n\nTagline: We Value You\n\nCEO: Murali M. Natrajan"
+      },
+      {
+        "subtopic": "Dhanlaxmi Bank",
+        "content": "Headquarters: Thrissur, Kerala\n\nTagline: Tann. Mann. Dhan\n\nCEO: J.K. Shivan"
+      },
+      {
+        "subtopic": "Federal Bank",
+        "content": "Headquarters: Aluva, Kerala\n\nTagline: Your Perfect Banking Partner\n\nCEO: Shyam Srinivasan"
+      },
+      {
         "subtopic": "HDFC Bank",
-        "content": "Headquarters: Mumbai\nTagline: We Understand Your World\nCEO: Sashidhar Jagdishan\nChairman: Atanu Chakraborty"
+        "content": "Headquarters: Mumbai\n\nTagline: We Understand Your World\n\nCEO: Sashidhar Jagdishan"
       },
       {
         "subtopic": "ICICI Bank",
-        "content": "Headquarters: Mumbai\nTagline: Khayal Apka\nCEO: Sandeep Bakhshi\nChairman: Girish Chandra Chaturvedi"
+        "content": "Headquarters: Mumbai\n\nTagline: Hum Hai Na, Khayal Apka\n\nCEO: Sandeep Bakhshi"
+      },
+      {
+        "subtopic": "IndusInd Bank",
+        "content": "Headquarters: Pune\n\nTagline: We Make You Feel Richer\n\nCEO: Sumant Kathpalia"
+      },
+      {
+        "subtopic": "IDFC FIRST Bank",
+        "content": "Headquarters: Mumbai\n\nTagline: Always You First\n\nCEO: V. Vaidyanathan"
+      },
+      {
+        "subtopic": "Jammu & Kashmir Bank",
+        "content": "Headquarters: Srinagar, Jammu & Kashmir\n\nTagline: Serving to Empower\n\nCEO: Baldev Prakash"
+      },
+      {
+        "subtopic": "Karnataka Bank",
+        "content": "Headquarters: Mangaluru, Karnataka\n\nTagline: Your Family Bank, Across India\n\nCEO: Sekhar Rao (interim MD & CEO)"
+      },
+      {
+        "subtopic": "Karur Vysya Bank",
+        "content": "Headquarters: Karur, Tamil Nadu\n\nTagline: Smart Way to Bank\n\nCEO: B. Ramesh Babu"
       },
       {
         "subtopic": "Kotak Mahindra Bank",
-        "content": "Headquarters: Mumbai\nTagline: Let’s Make Money Simple / Ab Kona Kona Kotak\nCEO: Ashok Vaswani"
+        "content": "Headquarters: Mumbai\n\nTagline: Let’s Make Money Simple\n\nCEO: Ashok Vaswani"
+      },
+      {
+        "subtopic": "Lakshmi Vilas Bank (Merged with DBS Bank India in 2020)",
+        "content": "Headquarters: Chennai\n\nNote: Merged with DBS Bank India — no separate CEO post merger"
+      },
+      {
+        "subtopic": "Nainital Bank",
+        "content": "Headquarters: Nainital, Uttarakhand\n\nTagline: Banking with Personal Touch\n\nCEO: Dinesh Pant"
+      },
+      {
+        "subtopic": "RBL Bank",
+        "content": "Headquarters: Mumbai\n\nTagline: Apno Ka Bank\n\nCEO: R. Subramaniakumar"
+      },
+      {
+        "subtopic": "South Indian Bank",
+        "content": "Headquarters: Thrissur, Kerala\n\nTagline: Experience Next Generation Banking\n\nCEO: Murali Ramakrishnan"
+      },
+      {
+        "subtopic": "Tamilnad Mercantile Bank",
+        "content": "Headquarters: Thoothukudi, Tamil Nadu\n\nTagline: Be a Step Ahead of Life\n\nCEO: S. Krishnan"
+      },
+      {
+        "subtopic": "Yes Bank",
+        "content": "Headquarters: Mumbai\n\nTagline: Experience Our Expertise\n\nCEO: Prashant Kumar"
       }
     ]
   },
@@ -55,32 +167,175 @@
     "subtopics": [
       {
         "subtopic": "AU Small Finance Bank",
-        "content": "Tagline: Chalo Aage Badhe"
+        "content": "Headquarters: Jaipur, Rajasthan\n\nTagline: Chalo Aage Badhe\n\nCEO: Sanjay Agarwal"
+      },
+      {
+        "subtopic": "Capital Small Finance Bank",
+        "content": "Headquarters: Jalandhar, Punjab\n\nTagline: Vishwas Se Vikas Tak\n\nCEO: Sarvjit Singh Samra"
       },
       {
         "subtopic": "Equitas Small Finance Bank",
-        "content": "Tagline: It’s Fun Banking"
+        "content": "Headquarters: Chennai, Tamil Nadu\n\nTagline: It’s Fun Banking\n\nCEO: P. N. Vasudevan"
+      },
+      {
+        "subtopic": "ESAF Small Finance Bank",
+        "content": "Headquarters: Thrissur, Kerala\n\nTagline: Joy of Banking\n\nCEO: K. Paul Thomas"
+      },
+      {
+        "subtopic": "Fincare Small Finance Bank",
+        "content": "Headquarters: Bangalore, Karnataka\n\nTagline: Banking On More\n\nCEO: Rajeev Yadav"
+      },
+      {
+        "subtopic": "Jana Small Finance Bank",
+        "content": "Headquarters: Bengaluru, Karnataka\n\nTagline: Paise Ke Kadar\n\nCEO: Ajay Kanwal"
+      },
+      {
+        "subtopic": "North East Small Finance Bank",
+        "content": "Headquarters: Guwahati, Assam\n\nTagline: Your Doorstep Banker\n\nCEO: Rupali Kalita"
+      },
+      {
+        "subtopic": "Suryoday Small Finance Bank",
+        "content": "Headquarters: Navi Mumbai, Maharashtra\n\nTagline: A Bank Of Smiles\n\nCEO: Baskar Babu"
       },
       {
         "subtopic": "Ujjivan Small Finance Bank",
-        "content": "Tagline: Build A Better Life"
+        "content": "Headquarters: Bengaluru, Karnataka\n\nTagline: Build A Better Life\n\nCEO: Ittira Davis"
+      },
+      {
+        "subtopic": "Utkarsh Small Finance Bank",
+        "content": "Headquarters: Varanasi, Uttar Pradesh\n\nTagline: Aap Ki Umeed Ka Khata\n\nCEO: Govind Singh"
       }
     ]
   },
   {
-    "topic": "Payment Banks and Their Taglines",
+    "topic": "Payments Banks in India",
     "subtopics": [
       {
         "subtopic": "Airtel Payments Bank",
-        "content": "Taglines: Banking Is Now At Your Fingertips, India’s First Payment Bank"
-      },
-      {
-        "subtopic": "Paytm Payments Bank",
-        "content": "Tagline: Simplifying Payments For India"
+        "content": "Headquarters: New Delhi\n\nTagline: Banking Is Now At Your Fingertips\n\nCEO: Anubrata Biswas"
       },
       {
         "subtopic": "India Post Payments Bank",
-        "content": "Tagline: Aapka Bank Aapke Dwar"
+        "content": "Headquarters: New Delhi\n\nTagline: Aapka Bank, Aapke Dwaar\n\nCEO: J. Venkatramu"
+      },
+      {
+        "subtopic": "Fino Payments Bank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Qadar Aapki Mehnat Ki\n\nCEO: Rishi Gupta"
+      },
+      {
+        "subtopic": "Paytm Payments Bank",
+        "content": "Headquarters: Noida, Uttar Pradesh\n\nTagline: Simplifying Payments, Simplifying Life\n\nCEO: Surinder Chawla"
+      },
+      {
+        "subtopic": "NSDL Payments Bank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Technology. Trust. Transformation.\n\nCEO: Arvind Kumar"
+      },
+      {
+        "subtopic": "Jio Payments Bank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Simple. Secure. Convenient.\n\nCEO: H. Srikrishnan"
+      }
+    ]
+  },
+  {
+    "topic": "Regional Rural Banks (RRBs) in India",
+    "subtopics": [
+      {
+        "subtopic": "Andhra Pradesh Grameena Vikas Bank",
+        "content": "Headquarters: Hyderabad, Telangana\n\nTagline: We Are With You\n\nCEO: K. Ramesh"
+      },
+      {
+        "subtopic": "Baroda Gujarat Gramin Bank",
+        "content": "Headquarters: Vadodara, Gujarat\n\nTagline: Reaching The Unreached\n\nCEO: R. N. Patel"
+      },
+      {
+        "subtopic": "Manipur Rural Bank",
+        "content": "Headquarters: Imphal, Manipur\n\nTagline: Customer Is The King\n\nCEO: T. Ibotombi Singh"
+      },
+      {
+        "subtopic": "Paschim Banga Gramin Bank",
+        "content": "Headquarters: Kolkata, West Bengal\n\nTagline: Bank for U – Banking for All\n\nCEO: S. K. Nandi"
+      },
+      {
+        "subtopic": "Uttarakhand Gramin Bank",
+        "content": "Headquarters: Dehradun, Uttarakhand\n\nTagline: Uttam Bank\n\nCEO: R. K. Joshi"
+      }
+    ]
+  },
+  {
+    "topic": "International Banks in India",
+    "subtopics": [
+      {
+        "subtopic": "Bank of America",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Life’s Better When We’re Connected\n\nCEO: Unknown (India Operations)"
+      },
+      {
+        "subtopic": "Bank of China",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Always With You\n\nCEO: Unknown (India Operations)"
+      },
+      {
+        "subtopic": "Barclays",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Fluent In Finance\n\nCEO: Jes Staley (Global)"
+      },
+      {
+        "subtopic": "Capital One",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: What’s In Your Wallet?\n\nCEO: Richard Fairbank (Global)"
+      },
+      {
+        "subtopic": "Citibank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: The Citi Never Sleeps\n\nCEO: Jane Fraser (Global)"
+      },
+      {
+        "subtopic": "Credit Suisse",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: It’s Time For An Expert\n\nCEO: Ulrich Körner (Global)"
+      },
+      {
+        "subtopic": "DBS Bank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Live More, Bank Less\n\nCEO: Piyush Gupta (Global)"
+      },
+      {
+        "subtopic": "Deutsche Bank",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Leading To Results\n\nCEO: Christian Sewing (Global)"
+      },
+      {
+        "subtopic": "Goldman Sachs",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Our Client’s Interest Always Comes First\n\nCEO: David Solomon (Global)"
+      },
+      {
+        "subtopic": "HSBC",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: The World’s Local Bank\n\nCEO: Noel Quinn (Global), Hitendra Dave (India)"
+      },
+      {
+        "subtopic": "JPMorgan Chase",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: The Right Relationship Is Everything\n\nCEO: Jamie Dimon (Global)"
+      },
+      {
+        "subtopic": "Morgan Stanley",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: One Client At A Time\n\nCEO: James Gorman (Global)"
+      },
+      {
+        "subtopic": "Royal Bank of Canada",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Let’s Make Someday Happen\n\nCEO: Dave McKay (Global)"
+      },
+      {
+        "subtopic": "Royal Bank of Scotland",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Make It Happen\n\nCEO: Alison Rose (Global)"
+      },
+      {
+        "subtopic": "Standard Chartered",
+        "content": "Headquarters: Mumbai, Maharashtra\n\nTagline: Good Enough Will Never Change The World\n\nCEO: Bill Winters (Global)"
+      }
+    ]
+  },
+  {
+    "topic": "Indian Banking Quiz & FAQs",
+    "subtopics": [
+      {
+        "subtopic": "Quiz Questions",
+        "content": "1. What is the tagline of SBI?\nOptions:\n(a) Pure Banking, Nothing Else\n(b) Apno ka Bank\n(c) Apka Apna Bank\n(d) Aao Sochein Bada\nAnswer: (a)\n\n2. 'One Family One Bank' is the tagline of which bank?\nOptions:\n(a) Union Bank of India\n(b) State Bank of India\n(c) Bank of Maharashtra\n(d) IDBI Bank\nAnswer: (c)\n\n3. 'Support All the Way' is a tagline of which bank?\nOptions:\n(a) Canara Bank\n(b) Catholic Syrian Bank\n(c) Bank of Baroda\n(d) Development Credit Bank\nAnswer: (b)\n\n4. Who is the Chairman of SBI?\nOptions:\n(a) N. S. Srinath\n(b) Salim Gangadharan\n(c) Shri Dinesh Kumar Khara\n(d) Mr. Arun Tiwari\nAnswer: (c)\n\n5. Where is South Indian Bank Headquartered?\nOptions:\n(a) Thrissur, Kerala\n(b) Mangaluru, Karnataka\n(c) Karur, Tamil Nadu\n(d) Vadodara\nAnswer: (a)"
+      },
+      {
+        "subtopic": "FAQs",
+        "content": "Q1: What We cover till now?\nA:we Provided a complete list of Indian banks, their taglines, headquarters, and CEOs organized across Public Sector, Private Sector, International, Regional Rural, Payment, and Small Finance Banks.\n\nQ2: Why is it important to learn bank taglines and headquarters for exams?\nA: Questions related to banks’ taglines, headquarters, and CEOs are frequently asked in Banking, SSC, and other competitive exams under the Banking Awareness section.\n\nQ3: How many types of banks are listed?\nA: The PDF covers four main categories: Payment Banks, Small Finance Banks, Regional Rural Banks (RRBs), and International Banks, plus Public and Private Sector banks.\n\nQ4: How many banks are included in total?\nA: There are 21 Public Sector Banks, 21 Private Sector Banks, and 46 International Banks, along with other categorized banks.\n\nQ5: Who regulates banks in India?\nA: All banks in India are regulated by the Reserve Bank of India (RBI) under the provisions of the RBI Act, 1934.\n\nQ6: What extra services do Indian banks provide?\nA: Beyond basic banking, services include mutual funds, internet banking, insurance, gold coins, consultancy, fund transfers, and wealth management.\n\nQ7: Is there any quiz included for practice?\nA: Yes, a short quiz based on taglines and headquarters is included to reinforce learning.\n\nQ8: Where can the PDF be downloaded?\nA: A free exam-focused PDF is available for download from the provided link for quick revision and reference."
       }
     ]
   }
