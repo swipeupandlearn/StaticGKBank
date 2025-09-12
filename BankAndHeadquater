@@ -1,0 +1,87 @@
+[
+  {
+    "topic": "Banking in India - Overview",
+    "subtopics": [
+      {
+        "subtopic": "Introduction",
+        "content": "There are 21 Public Sector Banks, 21 Private Sector Banks, and 46 International Banks in India. The Reserve Bank of India (RBI Act 1934) regulates all banks. Banks listed in the second schedule of the RBI Act are called commercial banks."
+      },
+      {
+        "subtopic": "Bank Services",
+        "content": "Indian banks offer loans, consultancy, funds remittance, internet services, credit instruments, overdrafts, and wealth management. They also provide solvency certificates, mutual funds, insurance, and gold coins."
+      },
+      {
+        "subtopic": "Types of Banks",
+        "content": "Banks in India are categorized as Payments Banks, Small Finance Banks, Regional Rural Banks (RRBs), International Banks, and Commercial Banks."
+      }
+    ]
+  },
+  {
+    "topic": "Public Sector Banks in India",
+    "subtopics": [
+      {
+        "subtopic": "Axis Bank",
+        "content": "Headquarters: Mumbai\nTagline: Badhti Ka Naam Zindagi\nCEO: Shri Amitabh Chaudhry"
+      },
+      {
+        "subtopic": "Bank of Baroda",
+        "content": "Headquarters: Vadodara\nTagline: India’s International Bank\nCEO: Debadatta Chand\nChairman: Dr. Hasmukh Adhia"
+      },
+      {
+        "subtopic": "State Bank of India",
+        "content": "Headquarters: Mumbai\nTaglines: A Bank Of The Common Man, Pure Banking Nothing Else, The Nation Banks On Us, With You All The Way\nChairman: Shri Dinesh Kumar Khara"
+      }
+    ]
+  },
+  {
+    "topic": "Private Sector Banks in India",
+    "subtopics": [
+      {
+        "subtopic": "HDFC Bank",
+        "content": "Headquarters: Mumbai\nTagline: We Understand Your World\nCEO: Sashidhar Jagdishan\nChairman: Atanu Chakraborty"
+      },
+      {
+        "subtopic": "ICICI Bank",
+        "content": "Headquarters: Mumbai\nTagline: Khayal Apka\nCEO: Sandeep Bakhshi\nChairman: Girish Chandra Chaturvedi"
+      },
+      {
+        "subtopic": "Kotak Mahindra Bank",
+        "content": "Headquarters: Mumbai\nTagline: Let’s Make Money Simple / Ab Kona Kona Kotak\nCEO: Ashok Vaswani"
+      }
+    ]
+  },
+  {
+    "topic": "Small Finance Banks and Their Taglines",
+    "subtopics": [
+      {
+        "subtopic": "AU Small Finance Bank",
+        "content": "Tagline: Chalo Aage Badhe"
+      },
+      {
+        "subtopic": "Equitas Small Finance Bank",
+        "content": "Tagline: It’s Fun Banking"
+      },
+      {
+        "subtopic": "Ujjivan Small Finance Bank",
+        "content": "Tagline: Build A Better Life"
+      }
+    ]
+  },
+  {
+    "topic": "Payment Banks and Their Taglines",
+    "subtopics": [
+      {
+        "subtopic": "Airtel Payments Bank",
+        "content": "Taglines: Banking Is Now At Your Fingertips, India’s First Payment Bank"
+      },
+      {
+        "subtopic": "Paytm Payments Bank",
+        "content": "Tagline: Simplifying Payments For India"
+      },
+      {
+        "subtopic": "India Post Payments Bank",
+        "content": "Tagline: Aapka Bank Aapke Dwar"
+      }
+    ]
+  }
+]
