@@ -1,0 +1,63 @@
+[
+  {
+    "topic": "Overview of India’s Space Journey",
+    "subtopics": [
+      {
+        "subtopic": "English Overview",
+        "content": "• India’s journey into space science began in 1962 with INCOSPAR, founded by Dr. Vikram Sarabhai and Dr. Ramanathan.\n• In 1969, ISRO (Indian Space Research Organisation) was established as the cornerstone of India’s space program.\n• Today, ISRO manages over 45 space research centres across India, focusing on satellite missions, rocket development, propulsion systems, navigation, communication, and remote sensing.\n• Achievements include Chandrayaan, Mangalyaan, Gaganyaan mission (in progress), and the globally renowned PSLV launch program.\n• India is now among the top global space powers, using space technology for national development and international collaborations."
+      },
+      {
+        "subtopic": "हिंदी में परिचय",
+        "content": "• भारत की अंतरिक्ष यात्रा 1962 में डॉ. विक्रम साराभाई और डॉ. रमणाथन द्वारा स्थापित भारतीय राष्ट्रीय अंतरिक्ष अनुसंधान समिति (INCOSPAR) से शुरू हुई।\n• 1969 में ISRO (भारतीय अंतरिक्ष अनुसंधान संगठन) की स्थापना की गई।\n• वर्तमान में ISRO भारत के 45 से अधिक अंतरिक्ष अनुसंधान केंद्रों का प्रबंधन करता है।\n• प्रमुख उपलब्धियां – चंद्रयान, मंगलयान, गगनयान (प्रगति पर), और विश्व-प्रसिद्ध PSLV प्रक्षेपण।\n• आज भारत अंतरिक्ष विज्ञान में विश्व की अग्रणी शक्तियों में शामिल है।"
+      }
+    ]
+  },
+  {
+    "topic": "List of Major Space Centres in India",
+    "subtopics": [
+      {
+        "subtopic": "North India",
+        "content": "• New Delhi – DOS branch secretariat, ISRO branch office, Delhi Earth Station.\n• Dehradun – Indian Institute of Remote Sensing, CSSTEAP.\n• Lucknow – ISTRAC Ground Station.\n• Chandigarh – Semi-Conductor Laboratory (SCL).\n• Shillong – North Eastern Space Application Centre."
+      },
+      {
+        "subtopic": "Central & Western India",
+        "content": "• Bhopal – Master Control Facility-B.\n• Nagpur – Central RRSC.\n• Ahmedabad – Space Application Centre (SAC), PRL, DECU.\n• Mount Abu – Infrared Observatory.\n• Jodhpur – Western RRSC.\n• Udaipur – Solar Observatory."
+      },
+      {
+        "subtopic": "Southern India",
+        "content": "• Sriharikota (Andhra Pradesh) – Satish Dhawan Space Centre (SDSC-SHAR).\n• Mahendragiri (Tamil Nadu) – ISRO Propulsion Complex.\n• Thiruvananthapuram (Kerala) – Vikram Sarabhai Space Centre, LPSC, ISU, IIST.\n• Bengaluru (Karnataka) – ISRO HQ, Space Commission, UR Rao Satellite Centre (URSC), LEOS, HSFC, ISTRAC, Antrix, NSIL.\n• Hassan (Karnataka) – Master Control Facility.\n• Hyderabad (Telangana) – NRSC/NRSA.\n• Tirupati – National Atmospheric Research Laboratory (NMRF).\n• Port Blair – Down Range Tracking Station.\n• Aluva – Ammonium Perchlorate Experimental Plant."
+      },
+      {
+        "subtopic": "Eastern India",
+        "content": "• Kolkata – Eastern RRSC."
+      }
+    ]
+  },
+  {
+    "topic": "History of the Indian Space Program",
+    "subtopics": [
+      {
+        "subtopic": "Timeline",
+        "content": "• 1962 – INCOSPAR formed under Dr. Vikram Sarabhai.\n• 1969 – Establishment of ISRO.\n• 1972 – Incorporated into Department of Space (DOS).\n• 1975 – India’s first satellite Aryabhata launched.\n• 1980s–90s – Development of INSAT, IRS, and PSLV systems.\n• 2008 – Chandrayaan-1 (Moon mission).\n• 2013 – Mangalyaan (Mars Orbiter Mission).\n• 2020s – Gaganyaan (Human spaceflight program) in progress."
+      }
+    ]
+  },
+  {
+    "topic": "List of ISRO Chairmen (1963–2025)",
+    "subtopics": [
+      {
+        "subtopic": "Chairmen",
+        "content": "• Dr. Vikram Sarabhai (1963–1971)\n• M.G.K. Menon (1972)\n• Satish Dhawan (1972–1984)\n• U.R. Rao (1984–1994)\n• K. Kasturirangan (1994–2003)\n• G. Madhavan Nair (2003–2009)\n• K. Radhakrishnan (2009–2014)\n• A.S. Kiran Kumar (2015–2018)\n• Dr. K. Sivan (2018–2022)\n• S. Somanath (2022–Present)"
+      }
+    ]
+  },
+  {
+    "topic": "List of Space Centres in India – FAQs",
+    "subtopics": [
+      {
+        "subtopic": "Common Questions",
+        "content": "Q: What is the biggest space centre in India?\nA: The Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram.\n\nQ: Who is the founder of ISRO?\nA: Dr. Vikram Sarabhai.\n\nQ: What is India's first satellite?\nA: Aryabhata (1975).\n\nQ: Where is ISRO’s headquarters?\nA: Bengaluru, Karnataka.\n\nQ: Which centre handles satellite mission operations?\nA: ISTRAC, Bengaluru.\n\nQ: What is the role of LPSC?\nA: Development of liquid propulsion engines for rockets.\n\nQ: Which centre builds Indian satellites?\nA: UR Rao Satellite Centre (URSC), Bengaluru.\n\nQ: What is the main launch centre of India?\nA: Satish Dhawan Space Centre (SDSC-SHAR), Sriharikota."
+      }
+    ]
+  }
+]
