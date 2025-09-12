@@ -2,5 +2,9 @@
     {
       "name": "India Related GK",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/StaticGKTopicsIndia"
+    },
+  {
+      "name": "Bank Related GK",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/StaticGkTopicsBank"
     }
   ]
