@@ -21,6 +21,8 @@
 },
 {
  "name":"Important Lakes", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/ImpLakes"
+},
+{
+ "name":"Railway Routes", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/RailwayRoutes"
 }
-
 ]
