@@ -27,5 +27,8 @@
 },
 {
  "name":"Tiger Reserve in India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/TigerReserves"
+},
+{
+ "name":"National Parks in India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/NationalPark"
 }
 ]
