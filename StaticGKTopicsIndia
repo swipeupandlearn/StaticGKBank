@@ -24,5 +24,8 @@
 },
 {
  "name":"Railway Routes", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/RailwayRoutes"
+},
+{
+ "name":"Tiger Reserve in India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/TigerReserves"
 }
 ]
