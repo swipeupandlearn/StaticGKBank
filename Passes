@@ -1,0 +1,183 @@
+[
+  {
+    "topic": "Overview of Mountain Passes in India",
+    "subtopics": [
+      {
+        "subtopic": "Introduction",
+        "content": "• Mountain Pass = Natural route through a mountain range\n• Importance: Trade, Travel, Military, Cultural exchange\n• Mostly found in Himalayas (North & Northeast India), also in Western Ghats\n• Strategic importance: Borders with China, Pakistan, Nepal, Myanmar"
+      },
+      {
+        "subtopic": "Types of Passes",
+        "content": "• High-altitude rugged passes\n• Broad valley passes\n• Seasonal passes (open only in summer)"
+      }
+    ]
+  },
+  {
+    "topic": "Arunachal Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Bomdila Pass",
+        "content": "• Connects Arunachal Pradesh with Bhutan\n• Height: 2,217 m"
+      },
+      {
+        "subtopic": "Sela Pass",
+        "content": "• Connects Tawang with rest of Arunachal\n• Height: 4,170 m\n• Famous for Sela Lake"
+      },
+      {
+        "subtopic": "Dipher Pass",
+        "content": "• Connects Arunachal with Myanmar"
+      }
+    ]
+  },
+  {
+    "topic": "Himachal Pradesh",
+    "subtopics": [
+      {
+        "subtopic": "Bara-lacha La",
+        "content": "• Connects Lahaul district with Ladakh\n• Height: 4,890 m\n• Located on Leh–Manali highway"
+      },
+      {
+        "subtopic": "Rohtang Pass",
+        "content": "• Connects Kullu with Lahaul and Spiti\n• Height: 3,978 m\n• Popular tourist spot"
+      },
+      {
+        "subtopic": "Shipki La",
+        "content": "• Connects Himachal with Tibet (China)\n• Height: 5,669 m\n• Indo-China trade route"
+      }
+    ]
+  },
+  {
+    "topic": "Jammu & Kashmir",
+    "subtopics": [
+      {
+        "subtopic": "Banihal Pass",
+        "content": "• Connects Jammu with Srinagar Valley\n• Height: 2,832 m\n• Jawahar Tunnel located here"
+      },
+      {
+        "subtopic": "Pir Panjal Pass",
+        "content": "• Connects Rajouri and Poonch with Kashmir Valley\n• Height: 3,485 m"
+      },
+      {
+        "subtopic": "Zojila Pass",
+        "content": "• Connects Srinagar with Leh\n• Height: 3,528 m\n• Strategically important"
+      }
+    ]
+  },
+  {
+    "topic": "Ladakh",
+    "subtopics": [
+      {
+        "subtopic": "Khardung La",
+        "content": "• Among the highest motorable passes in the world\n• Height: 5,359 m\n• Gateway to Nubra Valley"
+      },
+      {
+        "subtopic": "Chang La",
+        "content": "• Connects Leh with Pangong Lake\n• Height: 5,360 m"
+      },
+      {
+        "subtopic": "Karakoram Pass",
+        "content": "• Connects Ladakh with Xinjiang (China)\n• Height: 5,540 m\n• Ancient Silk Route pass"
+      }
+    ]
+  },
+  {
+    "topic": "Manipur",
+    "subtopics": [
+      {
+        "subtopic": "Moreh Pass",
+        "content": "• Connects Manipur (India) with Myanmar\n• Important for border trade"
+      }
+    ]
+  },
+  {
+    "topic": "Meghalaya",
+    "subtopics": [
+      {
+        "subtopic": "Dawki Pass",
+        "content": "• Connects Meghalaya with Bangladesh\n• Important trade route"
+      }
+    ]
+  },
+  {
+    "topic": "Mizoram",
+    "subtopics": [
+      {
+        "subtopic": "Chhipui Pass",
+        "content": "• Connects Mizoram with Myanmar"
+      }
+    ]
+  },
+  {
+    "topic": "Nagaland",
+    "subtopics": [
+      {
+        "subtopic": "Pangsau Pass",
+        "content": "• Connects Arunachal & Nagaland region with Myanmar\n• Height: 1,136 m\n• Famous as Hell’s Pass during WWII (Stilwell Road)"
+      }
+    ]
+  },
+  {
+    "topic": "Sikkim",
+    "subtopics": [
+      {
+        "subtopic": "Nathu La",
+        "content": "• Connects Sikkim with Tibet (China)\n• Height: 4,310 m\n• Important India-China trade route"
+      },
+      {
+        "subtopic": "Jelep La",
+        "content": "• Connects Sikkim with Lhasa (Tibet)\n• Height: 4,267 m"
+      }
+    ]
+  },
+  {
+    "topic": "Uttarakhand",
+    "subtopics": [
+      {
+        "subtopic": "Mana Pass",
+        "content": "• Connects Uttarakhand with Tibet\n• Height: 5,545 m\n• Among the highest vehicle-accessible passes"
+      },
+      {
+        "subtopic": "Niti Pass",
+        "content": "• Connects Uttarakhand with Tibet\n• Height: 5,070 m"
+      },
+      {
+        "subtopic": "Lipulekh Pass",
+        "content": "• Connects Uttarakhand with Tibet\n• Height: 5,334 m\n• Route for Kailash Mansarovar Yatra"
+      }
+    ]
+  },
+  {
+    "topic": "West Bengal",
+    "subtopics": [
+      {
+        "subtopic": "Nathu La (shared with Sikkim)",
+        "content": "• Strategically important Indo-China pass near Sikkim–West Bengal border"
+      }
+    ]
+  },
+  {
+    "topic": "Important Facts & FAQs",
+    "subtopics": [
+      {
+        "subtopic": "Highest Pass in India",
+        "content": "• Mana Pass (Uttarakhand) – 5,545 m\n• Karakoram Pass (Ladakh) – 5,540 m"
+      },
+      {
+        "subtopic": "Most Famous Tourist Pass",
+        "content": "• Rohtang Pass (Himachal Pradesh)"
+      },
+      {
+        "subtopic": "Strategically Important Passes",
+        "content": "• Zojila (J&K) – connects Srinagar to Leh\n• Nathu La (Sikkim) – Indo-China trade route\n• Lipulekh (Uttarakhand) – Kailash Mansarovar Yatra"
+      },
+      {
+        "subtopic": "WWII Historical Pass",
+        "content": "• Pangsau Pass (Nagaland/Arunachal) – Hell’s Pass, part of Stilwell Road"
+      },
+      {
+        "subtopic": "FAQ",
+        "content": "Q: Which is the highest motorable pass? → Khardung La (Ladakh)\nQ: Which pass connects India with Myanmar? → Moreh (Manipur), Pangsau (Nagaland/Arunachal)\nQ: Which pass is used for Kailash Mansarovar Yatra? → Lipulekh (Uttarakhand)\nQ: Which pass connects Srinagar to Leh? → Zojila (J&K)"
+      }
+    ]
+  }
+]
