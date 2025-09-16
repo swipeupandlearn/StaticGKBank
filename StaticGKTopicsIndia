@@ -53,10 +53,10 @@
  "name":"State and Crops of India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/Crops"
 },
 {
- "name":"dummy", "url":"Dum"
+ "name":"Important Monuments of India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/Monuments"
 },
 {
- "name":"dummy", "url":"Dum"
+ "name":"Peaks of India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/Peaks"
 }
 
 ]
