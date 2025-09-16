@@ -30,5 +30,8 @@
 },
 {
  "name":"National Parks in India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/NationalPark"
+},
+{
+ "name":"National Acquatic Animal India", "url":"https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/AquaticAnimal"
 }
 ]
